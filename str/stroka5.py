@@ -1,0 +1,5 @@
+a= input('what is your name?')
+b= input('how old are you?')
+c= input('what is your favorite movie?')
+print(f'hello {a}')
+print(f'it is good movie {c}')
